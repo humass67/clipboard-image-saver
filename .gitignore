@@ -1,5 +1,4 @@
 # Build artifacts
-ClipboardSaver/ClipboardSaver.exe
 dist/
 build/
 *.spec
