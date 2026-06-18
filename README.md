@@ -73,7 +73,7 @@ pip install PyQt5 Pillow pyinstaller
 ### Run the script directly
 
 ```bash
-cd "Новая папка (10)"
+cd "clipboard-image-saver-main"
 python main.py
 ```
 
