@@ -1,0 +1,23 @@
+# Build artifacts
+ClipboardSaver/ClipboardSaver.exe
+dist/
+build/
+*.spec
+
+# Runtime data
+clipboard_saver.log
+screenshots/
+ClipboardSaver/screenshots/
+ClipboardSaver/clipboard_saver.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Shortcut (local path, useless on another PC)
+ClipboardSaver.lnk
+
+# IDE
+.vscode/
+.idea/
